@@ -6,13 +6,9 @@ A website based on a MVC architecture that utilizes Node and Express.js packages
 
 ### Installation
 
-cd into the project folder and type `npm install` to install the project dependencies. Also, make sure to first run the commands in the db folder to initialize the MySQL database and set the appropriate environment variables.
-
-### Usage
-
-Set environment variables for the MYSQL_HOST, MYSQL_PASS and MYSQL_USER for your MySQL database. Next, run `npm start` inside the project directory to start the Node.js server.
+Clone or download the repo, then navigate into the project folder and type `npm install` to install the project dependencies. 
+Make sure to first run the schema and seeds files in the db folder (as well as set the configuration to match your instance of sql) so that you have a properly set up database.
 
 ### Contact
 
-Created by Tom Trebat
-tjtrebat@gmail.com (bugs, problems, questions)
+Created by Scott Sawyer
