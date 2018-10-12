@@ -1,6 +1,8 @@
 # burger
 A website allowing users to create and devour their favorite burgers.
 
+![Alt text](./img/burger-cap.JPG?raw=true "Burgers!")
+
 ### Summary
 A website based on a MVC architecture that utilizes Node and Express.js packages and interacts with a MySQL database. Users can enter their favorite burgers and devour them with a click of a button on a client-side web interface.
 
