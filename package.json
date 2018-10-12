@@ -1,27 +1,29 @@
 {
-  "name": "burger",
+  "name": "burgers",
   "version": "1.0.0",
-  "description": "A website allowing users to make and devour their favorite burgers.",
+  "description": "# Overview",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "nodemon server.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/scottasawyer/burger.git"
   },
   "author": "Scott Sawyer",
-  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tjtrebat/burger/issues"
+    "url": "https://github.com/scottasawyer/burger/issues"
   },
-  "homepage": "https://github.com/tjtrebat/burger#readme",
+  "homepage": "https://github.com/scottasawyer/burger#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "dotenv": "^6.1.0",
+    "express": "^4.14.1",
     "express-handlebars": "^3.0.0",
     "mysql": "^2.16.0",
-    "nodemon": "^1.18.4"
-  }
+    "method-override": "^2.3.7"
+  },
+  "license": "ISC",
+  "devDependencies": {}
 }
