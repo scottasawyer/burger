@@ -1,5 +1,5 @@
 # burger
-A website allowing users to create and devour their favorite burgers.
+A web app allowing users to create and devour their favorite burgers.
 
 ![Burger](https://github.com/scottasawyer/burger/blob/master/img/burger_cap.JPG)
 
